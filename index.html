@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="./css/styles.css">
+    <link rel="icon" href="https://img.freepik.com/vector-gratis/ilustracion-icono-vector-dibujos-animados-cerebro-educacion-objeto-icono-concepto-aislado-premium-vector-estilo-dibujos-animados-plana_138676-3559.jpg?w=2000">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Press+Start+2P&display=swap" rel="stylesheet">
+    <title>Laberinto de la mente</title>
+</head>
+<body>
+    <div class="game-container">
+        <canvas id="game"></canvas>
+
+        <div class="btns">
+            <button id="up">↑</button>
+            <button id="left">🔙</button>
+            <button id="right">🔜</button>
+            <button id="down">↓</button>
+        </div>
+
+        <div class="messages">
+            <p class="messagesP">Vidas: <span id="lives"></span></p>
+            <P class="messagesP">Tiempo: <span id="time"></span></P>
+            <p class="messagesP">Record:🏆<span id="record"></span></p>
+            <p id="result"></p>
+            <p><button class="btn_reset" id="reset_button">Reiniciar</button></p>
+        </div>
+
+    </div>
+
+    <script src="./js/maps.js"></script>
+    <script src="./js/game.js"></script>
+</body>
+</html>
