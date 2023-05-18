@@ -1,6 +1,6 @@
 #  Maze of the mind
 
-[![https://im.ezgif.com/tmp/ezgif-1-35dbed27f3.gif](https://im.ezgif.com/tmp/ezgif-1-35dbed27f3.gif "https://im.ezgif.com/tmp/ezgif-1-35dbed27f3.gif")](https://im.ezgif.com/tmp/ezgif-1-35dbed27f3.gif "https://im.ezgif.com/tmp/ezgif-1-35dbed27f3.gif")
+[![https://i.imgur.com/gr8THsR.png](https://i.imgur.com/gr8THsR.png "https://i.imgur.com/gr8THsR.png")](https://i.imgur.com/gr8THsR.png "https://i.imgur.com/gr8THsR.png")
 
 ### 📄 Content 
 The project was created with the aim of developing a video game in the browser using canvas, two-dimensional arrays, and pure HTML5 technologies. In this project, the following priorities have been set:
@@ -16,7 +16,8 @@ The project was created with the aim of developing a video game in the browser u
 - [Tristan Venegas](https://github.com/TG-VA "Tristan Venegas") - Front end Developer.
 
 # Laberinto de la mente
-[![https://im.ezgif.com/tmp/ezgif-1-35dbed27f3.gif](https://im.ezgif.com/tmp/ezgif-1-35dbed27f3.gif "https://im.ezgif.com/tmp/ezgif-1-35dbed27f3.gif")](https://im.ezgif.com/tmp/ezgif-1-35dbed27f3.gif "https://im.ezgif.com/tmp/ezgif-1-35dbed27f3.gif")
+
+[![https://i.imgur.com/gr8THsR.png](https://i.imgur.com/gr8THsR.png "https://i.imgur.com/gr8THsR.png")](https://i.imgur.com/gr8THsR.png "https://i.imgur.com/gr8THsR.png")
 
 ### 📄 Introducción
 
